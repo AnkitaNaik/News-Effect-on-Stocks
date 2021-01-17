@@ -1,8 +1,8 @@
-Requirements:
+## Requirements:
 Python 3.4
 R
 
-Steps:
+## Instructions:
 1) Run build.sh
 2) Run stock.py
 3) Copy the output
