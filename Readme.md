@@ -1,3 +1,6 @@
+## Introduction
+A project to analyse the effect of News articles extracted from Google News on the stock prices.
+
 ## Requirements:
 Python 3.4 <br>
 R
